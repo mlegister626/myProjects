@@ -1,0 +1,1000 @@
+Eliza Drake,some college,standard,completed,59,70,78
+Micaela Henry,associate's degree,standard,none,96,93,87
+Elvis Lamb,some college,free/reduced,none,57,76,77
+Ivy Perry,some college,free/reduced,none,70,70,63
+Laura Farmer,associate's degree,standard,none,83,85,86
+Felix Baker,some high school,standard,none,68,57,54
+Elliana Kennedy,associate's degree,standard,none,82,83,80
+Marco Arellano,some high school,standard,none,46,61,58
+Prince Carey,some high school,standard,none,80,75,73
+Karley Buckley,bachelor's degree,standard,completed,57,69,77
+Layla Hays,some high school,standard,none,74,69,69
+Myla Phelps,master's degree,standard,none,53,50,49
+Sammy Ewing,bachelor's degree,free/reduced,none,76,74,76
+Brent Jacobson,some college,standard,none,70,73,70
+Zayne Russell,master's degree,free/reduced,none,55,54,52
+Sydnee Jackson,master's degree,free/reduced,none,56,46,43
+Zariah Salas,some college,free/reduced,none,35,47,41
+Isla Noble,high school,standard,none,87,92,81
+Lamar Arnold,associate's degree,free/reduced,none,80,82,85
+Alec Saunders,associate's degree,standard,completed,65,71,74
+Taliyah Bean,high school,free/reduced,none,66,66,62
+Ignacio Hayes,associate's degree,standard,completed,67,71,76
+Sarai Cooley,some college,standard,none,70,71,71
+John Mccarty,associate's degree,standard,none,89,88,86
+Yaritza Carlson,associate's degree,standard,completed,99,85,88
+Tyson Cordova,some college,standard,none,74,83,72
+Rogelio Hodge,high school,free/reduced,none,58,52,51
+Lilyana Bruce,some high school,standard,none,70,66,59
+Brice Gordon,associate's degree,standard,none,80,79,71
+Michelle Pratt,associate's degree,standard,none,90,87,86
+Cristopher Porter,associate's degree,standard,completed,80,81,85
+Perla Hawkins,associate's degree,free/reduced,none,68,76,79
+Adriel Meyer,high school,free/reduced,completed,69,78,75
+Jude Murillo,master's degree,free/reduced,none,32,35,37
+Kaiden Hatfield,high school,standard,completed,82,82,82
+Alexandria Banks,some high school,standard,none,57,53,54
+Izabelle Joyce,some college,free/reduced,none,69,74,75
+Kaiya Rasmussen,associate's degree,standard,completed,68,66,72
+Kaylie Valencia,associate's degree,free/reduced,completed,74,85,87
+Cora Cardenas,master's degree,standard,none,89,85,78
+Priscilla Benson,associate's degree,free/reduced,completed,46,46,48
+Karlie Chambers,associate's degree,standard,completed,76,82,77
+Miracle Le,high school,standard,none,86,82,72
+Trinity Hogan,some college,standard,none,69,73,67
+Tyshawn Jensen,high school,standard,none,52,56,54
+Lyric Hayes,bachelor's degree,standard,none,63,71,65
+Ruby Acosta,associate's degree,standard,completed,96,82,90
+Marlene Freeman,some college,standard,completed,80,76,68
+Joel Turner,high school,standard,none,59,52,56
+Abigail Lawrence,some high school,standard,completed,80,77,80
+Kylan Cooper,high school,free/reduced,completed,65,77,74
+Desmond Rose,master's degree,free/reduced,completed,74,83,84
+Khloe Summers,some high school,standard,none,90,93,84
+Andres Vance,some college,standard,completed,69,72,72
+Alani York,high school,standard,none,69,67,63
+Michelle Maddox,some college,standard,none,62,64,61
+Liana Contreras,master's degree,standard,none,67,75,80
+Amina Stanton,some high school,standard,completed,89,93,93
+Kara Shaffer,bachelor's degree,standard,none,79,86,78
+Marc Warren,some high school,standard,none,67,66,66
+Eden Freeman,some high school,standard,completed,82,74,75
+Damon Snow,some high school,free/reduced,completed,63,69,63
+Patricia Hines,some college,free/reduced,none,71,83,80
+Rex Watts,associate's degree,standard,none,55,68,73
+Georgia Beard,high school,free/reduced,none,61,74,71
+Leon Morrison,associate's degree,free/reduced,none,35,34,36
+Levi Bullock,high school,free/reduced,none,75,77,66
+Jovanni Anthony,some high school,free/reduced,completed,73,91,88
+Aubrie Moss,high school,free/reduced,none,56,62,57
+Rogelio Sandoval,associate's degree,standard,none,80,70,73
+Jimena Kirk,some high school,standard,completed,83,81,78
+Tamara Stevenson,some college,free/reduced,completed,64,82,80
+Braelyn Knapp,some high school,standard,none,23,33,33
+Juliette Melton,some high school,free/reduced,completed,41,58,59
+Saniya Donaldson,some college,standard,completed,61,49,52
+Alexis Dixon,bachelor's degree,standard,none,63,46,46
+Samir Lee,associate's degree,free/reduced,completed,84,91,89
+Wayne Sellers,some college,standard,none,55,61,59
+Lucy Hansen,associate's degree,standard,completed,85,75,74
+Lucy Raymond,high school,standard,none,65,61,57
+Riya Bender,associate's degree,standard,none,88,80,81
+Marilyn Chavez,master's degree,free/reduced,completed,91,93,95
+Kendrick Beasley,some college,standard,none,51,46,42
+Malaki Wilkinson,some college,standard,completed,73,77,76
+Nathaly Singh,some college,standard,none,73,89,89
+Lindsay Woods,master's degree,standard,none,100,97,91
+Rashad Bradley,some high school,standard,completed,48,68,68
+Matilda Stanley,some college,standard,none,98,79,85
+Cyrus Mccann,master's degree,standard,none,68,65,60
+Damien Conway,bachelor's degree,standard,none,64,62,58
+Ciara Morrison,associate's degree,free/reduced,completed,72,67,61
+Karla Obrien,bachelor's degree,standard,none,63,74,75
+Howard Kelley,some college,standard,none,43,51,38
+Kamren Day,some college,standard,none,80,75,74
+Heath Tanner,some college,standard,none,71,88,83
+Luke Mcdowell,associate's degree,standard,completed,91,96,97
+Rhianna Garrison,some college,standard,completed,68,84,87
+Sanaa Lewis,associate's degree,standard,none,73,80,78
+Ray Kramer,high school,free/reduced,completed,75,90,95
+Cameron Holder,some college,free/reduced,none,83,62,64
+Kadin Frazier,high school,standard,none,88,72,74
+Mckenna Delgado,bachelor's degree,standard,none,59,50,53
+Sergio Nielsen,associate's degree,standard,none,74,69,63
+Ellen Dudley,some college,free/reduced,none,43,58,60
+Sofia Blankenship,high school,free/reduced,none,76,90,84
+Arabella Mayer,some high school,standard,none,74,75,74
+Davin Mcguire,some high school,standard,completed,69,76,72
+Darnell Khan,some high school,standard,none,62,78,74
+Esperanza Hale,associate's degree,free/reduced,completed,61,58,56
+Zaire Mckinney,some college,standard,none,88,81,77
+Jazlynn Chung,some high school,free/reduced,completed,64,84,83
+Jayla Barber,bachelor's degree,standard,none,65,79,73
+Yusuf Burke,some college,standard,completed,73,86,89
+Devyn Hanson,master's degree,standard,completed,50,64,63
+Johan Richards,associate's degree,standard,completed,63,72,78
+Leland Benjamin,bachelor's degree,standard,none,98,95,100
+Jensen Ray,high school,standard,none,90,96,88
+Virginia Jordan,high school,free/reduced,completed,64,71,68
+Everett Maddox,high school,free/reduced,none,38,55,52
+Teagan Davis,bachelor's degree,standard,none,84,91,93
+Conrad Burch,high school,standard,completed,81,74,79
+Libby Arnold,master's degree,standard,none,82,84,81
+Zion Gibbs,associate's degree,free/reduced,completed,64,67,75
+Isai Vargas,high school,standard,none,55,60,67
+Campbell Vazquez,bachelor's degree,free/reduced,completed,59,78,80
+Marin Sims,some college,standard,none,83,90,88
+Felix Best,associate's degree,standard,completed,76,79,80
+Casey Rogers,some high school,standard,completed,83,95,97
+Jaliyah Leblanc,associate's degree,standard,none,69,75,75
+Monique Wilkinson,some college,free/reduced,none,43,65,60
+Tiana Browning,associate's degree,free/reduced,none,52,65,60
+Mohamed Buchanan,some college,standard,none,56,58,55
+Laurel Hansen,some high school,free/reduced,completed,47,46,51
+Naima Maynard,master's degree,standard,none,71,61,63
+Alma Holmes,master's degree,standard,completed,66,70,83
+Jacquelyn Tapia,some college,standard,none,81,65,60
+Viviana Mcfarland,master's degree,standard,none,85,90,88
+Meadow Franco,master's degree,standard,none,76,77,77
+Nick Singh,some college,free/reduced,none,50,66,66
+Anika Mason,high school,standard,none,76,81,74
+Alice Chandler,some college,standard,none,65,64,61
+Shannon Woodward,high school,standard,none,59,69,64
+Fisher Stuart,high school,standard,none,84,77,80
+Dylan Chandler,bachelor's degree,standard,none,85,77,78
+Cory Warner,associate's degree,standard,none,61,56,60
+Rayna Thornton,bachelor's degree,standard,completed,73,79,81
+Amelia Watkins,some high school,standard,none,82,77,72
+Kathryn Farmer,associate's degree,standard,none,75,70,71
+Anderson Daniel,bachelor's degree,standard,none,91,83,82
+Adelyn Rollins,master's degree,standard,none,67,78,80
+Yasmin Castillo,high school,standard,completed,62,69,67
+Jessie Keller,master's degree,standard,none,61,56,52
+Sophia Benjamin,high school,standard,none,66,77,80
+Julio Singleton,master's degree,standard,none,59,57,51
+Rylee Yu,some college,standard,none,88,76,81
+Ayden West,associate's degree,free/reduced,none,67,73,74
+Taryn Johnson,associate's degree,standard,completed,91,99,100
+Jayden Watts,associate's degree,free/reduced,completed,87,82,79
+Isai Williams,some college,standard,completed,83,79,80
+Samson Charles,associate's degree,standard,none,70,79,76
+Hassan Cook,associate's degree,standard,none,83,83,78
+Willow Trujillo,associate's degree,standard,none,49,53,47
+Jaylen Eaton,high school,standard,completed,65,60,57
+Emmett Parks,associate's degree,free/reduced,completed,50,56,55
+Mckayla Ford,some college,standard,none,62,58,57
+Natasha Mcconnell,bachelor's degree,standard,none,56,50,50
+Lucy Rosales,associate's degree,standard,none,44,49,53
+Zaria Cordova,some high school,free/reduced,none,63,72,60
+Clare Gates,high school,standard,completed,72,69,74
+Violet Buckley,bachelor's degree,free/reduced,completed,64,77,77
+Evie Merritt,some college,standard,completed,61,75,82
+Julien Harrison,some college,free/reduced,none,82,72,69
+Stephany Harvey,some high school,standard,completed,57,68,74
+Lorena Weber,master's degree,standard,none,43,45,38
+Rachael Padilla,some high school,standard,none,69,56,59
+Martha Stevens,master's degree,standard,none,62,71,74
+Samson Chan,some high school,standard,none,60,73,68
+Theodore Patton,high school,standard,none,81,70,70
+Maxim Powell,associate's degree,free/reduced,completed,68,84,87
+Lilah Lozano,associate's degree,standard,none,65,63,57
+Annalise Cantrell,high school,standard,none,59,72,67
+Sean Robbins,associate's degree,standard,none,81,89,86
+Pamela Olsen,master's degree,free/reduced,none,84,85,87
+Hugo Cox,high school,standard,completed,56,68,70
+Kamari Reeves,master's degree,free/reduced,completed,71,75,73
+Owen Thomas,master's degree,free/reduced,none,93,98,94
+Jessie Phelps,high school,standard,none,77,81,85
+Chasity Soto,some college,standard,none,50,40,44
+Elias Leach,some college,standard,none,75,75,78
+Nathan Duke,bachelor's degree,standard,none,64,82,80
+Katrina Wright,bachelor's degree,standard,none,77,65,69
+Josiah Hatfield,some high school,standard,completed,64,81,87
+Everett Watson,some high school,standard,none,71,63,55
+Andy Larsen,some high school,free/reduced,completed,58,57,53
+Darren Buchanan,high school,free/reduced,none,47,66,66
+Azaria Gregory,associate's degree,standard,none,57,63,54
+Gregory Hodges,some college,standard,completed,82,89,86
+Marissa Mckinney,master's degree,standard,none,53,61,59
+Sophie Ellis,associate's degree,free/reduced,completed,89,98,99
+Lina Haley,some college,standard,completed,89,94,94
+Liam Hanson,some college,free/reduced,completed,75,97,92
+Corinne King,some college,free/reduced,none,62,61,57
+Cassandra Simpson,high school,standard,none,63,76,67
+Bryan Dixon,high school,standard,none,100,91,85
+Harper Villa,associate's degree,standard,none,62,81,77
+Marley Webb,associate's degree,standard,none,75,95,94
+Destinee Carey,some college,standard,none,51,56,53
+Rodney Bowen,master's degree,free/reduced,none,74,67,67
+Marlie Lawson,high school,free/reduced,none,66,66,58
+Kimberly Chavez,some high school,standard,completed,52,59,59
+Callie Dominguez,master's degree,free/reduced,none,69,56,56
+Zoe Reilly,some high school,free/reduced,completed,46,57,57
+Jordyn Gilmore,some college,standard,none,74,77,73
+Phillip Stone,master's degree,standard,none,100,90,88
+Justine Wall,some high school,standard,none,83,77,77
+Phillip Sweeney,associate's degree,free/reduced,completed,82,78,90
+Celeste Ryan,high school,standard,none,58,66,70
+Carley Nunez,some high school,free/reduced,completed,59,55,58
+Nathanial Avila,high school,standard,none,77,90,82
+Dania Espinoza,high school,standard,none,61,61,57
+Salma Nixon,master's degree,standard,none,85,81,80
+Tania Oconnor,high school,free/reduced,completed,59,68,68
+Audrina Jacobs,master's degree,free/reduced,completed,71,92,93
+Jaydin Hawkins,some high school,standard,none,52,71,70
+Zackary Sampson,some college,standard,none,62,62,68
+Briana Villarreal,associate's degree,standard,none,47,48,49
+Miracle Ayala,some college,standard,completed,96,92,88
+Kayden Warner,some high school,standard,none,48,60,57
+Chance Parrish,high school,free/reduced,none,20,25,15
+Amirah Mcmillan,some high school,standard,none,70,75,76
+Cora Becker,high school,free/reduced,completed,59,62,58
+Jayda Holt,associate's degree,free/reduced,none,80,80,83
+Kenna James,some college,standard,none,83,88,90
+Dexter Ford,bachelor's degree,standard,none,75,71,76
+Emely Garner,some college,free/reduced,completed,73,68,72
+Katelynn Gordon,associate's degree,standard,none,78,78,82
+Kailey Ortiz,bachelor's degree,standard,completed,94,82,93
+Taylor James,some high school,free/reduced,completed,46,63,66
+Coby Stephens,some college,free/reduced,completed,77,77,77
+Kianna Quinn,some high school,standard,none,63,56,47
+Jillian Larson,bachelor's degree,standard,completed,64,70,72
+Stella Drake,some high school,free/reduced,none,60,69,70
+Abigayle Washington,some college,standard,none,74,79,73
+Alejandro Hess,high school,free/reduced,none,67,77,81
+Uriel Boyer,high school,standard,completed,78,81,80
+Brady Mcfarland,high school,standard,completed,88,75,72
+Chace Fletcher,associate's degree,free/reduced,completed,52,64,66
+Marley Gonzales,high school,standard,none,88,66,73
+Jagger Dawson,high school,standard,completed,78,88,85
+Kassidy Gray,high school,standard,none,55,62,61
+Nathaly Avila,some college,standard,none,71,69,73
+Nia Ayers,high school,free/reduced,none,75,79,68
+Miriam Walker,bachelor's degree,standard,completed,62,60,55
+Abbigail Higgins,bachelor's degree,standard,completed,66,73,72
+Kaelyn Campbell,bachelor's degree,standard,none,39,45,36
+Hannah Gallegos,some college,standard,none,85,80,73
+Griffin Burch,high school,free/reduced,none,46,57,53
+Bruno Davidson,master's degree,free/reduced,completed,57,64,66
+John Jarvis,associate's degree,standard,completed,65,78,81
+Wendy Pratt,some college,standard,none,86,82,72
+Angel Woodard,some high school,standard,none,59,50,41
+Aydin Wilson,some high school,free/reduced,completed,49,69,68
+Siena Irwin,some college,free/reduced,none,51,50,44
+Olivia Mathis,associate's degree,standard,none,53,57,60
+Lana Robertson,some college,standard,none,82,84,83
+Cristal Gentry,high school,free/reduced,none,51,68,66
+Wyatt Peterson,some high school,standard,none,74,79,79
+Danica Trevino,master's degree,free/reduced,none,73,72,75
+Maximilian Higgins,high school,free/reduced,none,42,61,63
+Nikhil Hansen,some college,free/reduced,completed,41,59,56
+Duncan Stein,some college,standard,none,84,88,84
+Ezekiel Gilbert,some college,free/reduced,completed,64,66,62
+Samantha Mclaughlin,high school,free/reduced,none,74,88,75
+Katie Foley,associate's degree,standard,none,91,84,77
+Ali Schaefer,associate's degree,standard,none,67,72,65
+Lewis Willis,high school,standard,none,54,56,59
+Savion Hodges,master's degree,standard,none,44,39,37
+Reagan Lynch,master's degree,standard,completed,65,84,86
+Ronin Hardin,associate's degree,standard,none,37,40,36
+Lilyana Schneider,associate's degree,free/reduced,none,58,75,78
+Mark Dillon,bachelor's degree,free/reduced,none,69,78,78
+Seth Walters,some high school,standard,none,64,56,51
+Daniella Mitchell,high school,standard,none,70,63,63
+Taylor Hale,high school,free/reduced,none,55,68,66
+Karma James,some college,standard,completed,45,63,67
+Kian Dickson,some college,standard,completed,80,70,71
+Melanie Jacobson,some college,standard,none,77,73,69
+Irene Brown,bachelor's degree,free/reduced,none,57,54,44
+Matilda Williamson,bachelor's degree,standard,none,67,72,72
+Clay Lester,master's degree,standard,none,68,70,72
+Matthias Schneider,high school,standard,none,49,53,43
+Camron Lynch,associate's degree,standard,none,42,48,42
+Anton Reese,associate's degree,standard,none,96,93,100
+Crystal Swanson,bachelor's degree,free/reduced,none,55,56,54
+Gretchen Mata,master's degree,standard,none,70,65,56
+Rowan Guerra,bachelor's degree,free/reduced,none,51,53,51
+Ethan Ellison,some college,free/reduced,completed,27,49,50
+Ally Nicholson,high school,standard,none,60,54,47
+Alia Robbins,some high school,standard,none,44,56,47
+Reid Sheppard,high school,standard,completed,63,73,74
+Ashlynn Key,associate's degree,standard,none,72,77,75
+Mathias Flores,some high school,standard,none,82,77,80
+Yasmine Yates,bachelor's degree,standard,completed,82,85,99
+Everett Mayo,some high school,standard,none,70,82,83
+Misael Wilkins,high school,free/reduced,completed,76,61,61
+Gage Boone,bachelor's degree,free/reduced,completed,62,68,74
+Adam Patrick,high school,free/reduced,none,58,62,54
+Davion Love,high school,standard,none,61,73,70
+Maddison Hancock,bachelor's degree,standard,completed,88,82,82
+Reese King,some college,standard,none,61,64,54
+Veronica Wagner,high school,standard,completed,88,77,78
+Urijah Pratt,some high school,free/reduced,none,57,45,46
+Azaria Cummings,high school,standard,completed,92,95,93
+Janiah Schmidt,master's degree,standard,none,80,79,73
+Amara Melendez,some high school,standard,none,62,54,52
+Ronald Mathis,some college,standard,none,71,74,80
+Enrique Mclaughlin,high school,free/reduced,none,54,58,63
+Moses Nichols,some college,free/reduced,none,43,43,40
+Kaylah Cooke,some college,standard,none,51,57,60
+Kayden Gordon,some high school,standard,none,57,46,44
+Averie Leach,some high school,standard,completed,62,71,62
+Evangeline Golden,some high school,standard,none,48,59,55
+Mason Olson,associate's degree,free/reduced,completed,61,69,62
+Brock Sawyer,some high school,standard,completed,94,91,98
+Lilyana Frye,some college,free/reduced,none,44,45,41
+Adan Copeland,associate's degree,standard,none,56,71,70
+Ramiro Krause,associate's degree,free/reduced,none,68,69,55
+Guillermo Herring,some college,free/reduced,none,61,53,48
+Iris Bush,high school,standard,completed,49,68,67
+Clay Kemp,some college,standard,none,71,71,76
+Eve Kaiser,some high school,standard,none,78,86,80
+Paul Baker,associate's degree,standard,none,74,70,63
+Bria Key,high school,standard,none,66,63,63
+Braylen Allen,some high school,free/reduced,none,61,56,53
+Omar Rowe,some college,free/reduced,none,59,45,44
+Juan Cordova,high school,free/reduced,none,49,65,62
+Kamden Haas,associate's degree,free/reduced,none,61,68,67
+Maximus Barr,bachelor's degree,free/reduced,completed,54,57,63
+Hazel Glover,high school,free/reduced,completed,45,61,63
+Katherine Hooper,bachelor's degree,free/reduced,completed,81,96,99
+Jaliyah Logan,associate's degree,standard,none,71,87,87
+Ruth Wells,associate's degree,standard,none,67,60,61
+Yuliana Calderon,some college,standard,none,56,53,58
+Talia Macias,high school,free/reduced,completed,60,66,64
+Anya Ramos,associate's degree,standard,none,95,86,83
+Dakota Bradford,some college,standard,none,60,59,53
+Addison Chapman,some college,standard,none,60,55,52
+Sophie Dalton,bachelor's degree,standard,none,82,68,69
+Dana Cline,some college,free/reduced,none,78,68,70
+Julien Bright,associate's degree,standard,none,57,67,64
+Arnav Levy,some college,standard,none,72,77,67
+Ciara Conley,some high school,standard,none,37,51,43
+Eric Prince,some college,standard,none,72,76,64
+Krish Roman,some college,free/reduced,none,52,57,49
+Payton Benson,high school,standard,completed,80,72,72
+Killian Valencia,associate's degree,standard,none,89,78,76
+Easton Moon,some college,standard,completed,84,88,87
+Deborah Bush,some high school,standard,none,67,73,76
+Manuel Dickerson,master's degree,standard,completed,59,75,79
+Gianni Benjamin,some college,standard,completed,95,85,80
+Zavier Irwin,master's degree,standard,none,71,68,68
+Nevaeh Brandt,high school,standard,none,72,76,74
+Kael Peck,high school,standard,completed,83,80,82
+Hailee Zuniga,some high school,standard,none,94,86,82
+Kale Wood,some college,free/reduced,completed,58,57,58
+Michelle Glass,bachelor's degree,standard,completed,75,62,65
+Ernesto Villegas,some high school,free/reduced,none,65,83,77
+Chaya Lucas,bachelor's degree,free/reduced,completed,68,78,83
+Jaylah Vasquez,some high school,free/reduced,none,34,44,43
+Christine Estes,some college,standard,none,97,96,89
+Carolina Bartlett,high school,standard,none,44,47,55
+Clinton Shields,some high school,standard,completed,60,57,60
+Hezekiah Gillespie,high school,free/reduced,completed,66,81,75
+Tyrone Cherry,high school,standard,none,96,94,93
+Chris Schmitt,high school,free/reduced,none,39,60,52
+Rosemary Park,some college,free/reduced,none,56,57,62
+Maddison Thomas,high school,standard,none,31,27,19
+Jaliyah Vega,bachelor's degree,standard,completed,74,79,84
+Adrienne Sawyer,bachelor's degree,standard,completed,100,100,100
+Reyna Browning,high school,standard,completed,68,75,73
+Daniela Fernandez,associate's degree,free/reduced,completed,79,89,96
+Bryan Tapia,bachelor's degree,free/reduced,none,62,69,60
+Evelin Howell,associate's degree,standard,none,72,85,81
+Laura Barnett,some college,standard,none,66,78,75
+Lorelai Norton,high school,standard,completed,64,66,69
+Anton Cross,some high school,standard,none,62,64,64
+August Valencia,bachelor's degree,free/reduced,completed,68,82,86
+Lorelai Bautista,some college,free/reduced,completed,70,75,74
+Serena Dougherty,bachelor's degree,free/reduced,none,63,61,64
+Devan Cisneros,high school,standard,completed,91,100,100
+River Gutierrez,some college,standard,none,58,62,63
+Edgar Pena,some college,standard,none,75,66,59
+Houston Chavez,associate's degree,free/reduced,none,44,55,61
+Judah Chaney,some college,free/reduced,none,68,64,64
+Yamilet Shepard,bachelor's degree,free/reduced,none,65,61,57
+Clarissa Proctor,some college,free/reduced,completed,66,71,87
+Aracely Mcmillan,bachelor's degree,free/reduced,none,73,69,70
+Felipe Oliver,associate's degree,free/reduced,none,67,76,76
+Colin Mcconnell,associate's degree,free/reduced,none,66,73,69
+Cristopher Mcpherson,some college,standard,none,81,78,68
+Chase Weaver,some high school,standard,none,77,62,57
+Aidyn Nicholson,some college,free/reduced,none,43,48,53
+Ryan Stuart,bachelor's degree,standard,none,58,70,72
+Elaina Sherman,some college,free/reduced,none,65,77,70
+Darryl Shields,high school,standard,none,92,89,83
+Kyler Moss,some high school,standard,completed,56,48,54
+Kinley Colon,master's degree,standard,none,65,73,77
+Karissa Hood,associate's degree,standard,none,72,67,59
+Olivia Zuniga,some high school,standard,completed,100,84,87
+Darwin Booker,high school,standard,none,69,81,70
+Liberty Vaughan,some college,standard,completed,70,66,68
+Broderick Gentry,high school,standard,none,90,80,78
+Jacqueline Becker,high school,standard,none,90,79,75
+Jase Davila,high school,standard,completed,63,78,74
+Luciana Park,associate's degree,standard,none,40,51,51
+Salvatore Valentine,high school,standard,none,64,72,66
+Tommy Lang,some college,standard,none,90,76,71
+Giovanni Decker,some college,standard,none,76,74,73
+Kyler Peck,some college,free/reduced,none,42,48,33
+Faith Macdonald,bachelor's degree,free/reduced,completed,45,68,71
+Sarai York,bachelor's degree,standard,none,76,65,70
+Jolie Jackson,some high school,standard,completed,63,69,68
+Krista Hays,some college,standard,completed,84,77,79
+Ruth Delacruz,bachelor's degree,free/reduced,none,62,75,73
+Kadin Hatfield,associate's degree,free/reduced,completed,69,76,82
+Carl Martinez,some high school,standard,none,77,79,76
+Mariyah Brooks,bachelor's degree,standard,none,63,65,58
+Patricia Mitchell,high school,standard,completed,72,67,67
+Daniella Gutierrez,associate's degree,standard,none,75,68,68
+Lisa Dean,bachelor's degree,standard,none,61,66,71
+Ralph Lowe,high school,standard,none,79,97,85
+Maliyah Singh,high school,standard,none,53,66,64
+Abdullah Young,some college,standard,completed,77,68,66
+Mariyah Rowe,high school,free/reduced,none,44,49,43
+Odin Landry,high school,standard,none,44,50,37
+Darren Rich,associate's degree,standard,completed,71,84,88
+Janiyah Cochran,associate's degree,standard,completed,60,65,67
+Kianna Kaufman,some high school,standard,none,49,39,33
+Saniya Gilmore,high school,standard,completed,82,95,93
+Zack Mosley,master's degree,free/reduced,none,68,70,62
+Beatrice Bauer,some high school,free/reduced,none,58,63,65
+Madilynn Cruz,high school,standard,none,65,68,67
+Gilberto Mathis,associate's degree,standard,none,50,42,35
+Nicholas Stanley,associate's degree,free/reduced,completed,73,72,79
+Trevor Good,some high school,free/reduced,completed,40,50,47
+Immanuel Taylor,some high school,free/reduced,completed,60,67,74
+Harley Ramos,associate's degree,free/reduced,none,57,58,51
+Yadiel Cohen,some college,free/reduced,none,57,60,57
+Kylie Gregory,some high school,standard,none,83,86,89
+Sienna Butler,master's degree,standard,none,68,56,57
+Kaiya Frost,bachelor's degree,standard,none,74,76,73
+Zaiden Farrell,master's degree,free/reduced,none,76,68,70
+Lauren Burgess,some high school,free/reduced,none,38,45,44
+Jimmy Nguyen,high school,standard,none,63,64,59
+Yadira Macias,bachelor's degree,free/reduced,none,87,79,72
+Cailyn Oneill,high school,free/reduced,none,81,84,78
+Angie Eaton,associate's degree,standard,none,84,90,90
+Tobias Whitaker,high school,free/reduced,completed,68,69,71
+Madeline Lester,some high school,free/reduced,none,57,70,71
+Gillian Marquez,master's degree,standard,none,75,82,81
+Jordan Mills,high school,free/reduced,none,39,50,41
+Monique Knox,some high school,standard,completed,54,77,78
+Xavier Ho,associate's degree,standard,none,71,73,69
+Alex Hoffman,some college,standard,none,58,64,55
+Jerry Orr,associate's degree,standard,none,61,70,73
+London Newton,associate's degree,standard,completed,82,85,94
+Kirsten Crane,associate's degree,standard,completed,73,87,83
+Gavin Keller,some high school,standard,none,52,66,63
+Gavyn Brandt,some high school,free/reduced,none,33,47,32
+Anastasia Franco,associate's degree,standard,completed,67,68,69
+Quinn Christian,some high school,free/reduced,none,61,80,82
+Armani Hensley,associate's degree,standard,completed,86,89,96
+Clare Alvarado,bachelor's degree,standard,completed,98,96,100
+Nicole Dudley,some college,standard,completed,72,56,63
+Diya Madden,associate's degree,free/reduced,none,60,59,52
+Sarah Foster,some college,standard,none,66,68,62
+Simeon Salinas,some high school,standard,completed,86,89,87
+Sandra Hurley,high school,standard,none,45,52,51
+Adeline Shields,some high school,standard,none,75,86,84
+Joe Rangel,associate's degree,standard,none,51,69,65
+Yael Beltran,high school,standard,none,21,30,26
+Agustin Hatfield,high school,free/reduced,none,54,53,47
+Ireland Warren,high school,standard,none,83,78,74
+Justine Erickson,associate's degree,free/reduced,none,74,79,65
+Braelyn Thornton,bachelor's degree,standard,none,73,67,73
+Diana Sullivan,some high school,free/reduced,completed,69,70,75
+Matthias Mcmillan,some college,standard,none,81,93,94
+Theresa Dunlap,bachelor's degree,standard,completed,95,90,89
+Dashawn Salas,some college,standard,completed,97,88,81
+Wade Ayala,master's degree,standard,completed,62,68,75
+Meredith Wood,some high school,standard,none,63,57,59
+Aliya Garrett,high school,standard,completed,50,72,70
+Emmanuel Velasquez,some high school,standard,none,25,33,32
+Patience Bennett,some high school,standard,none,73,67,64
+Maximo Cuevas,associate's degree,free/reduced,completed,57,58,54
+Felix Snyder,high school,standard,none,64,62,61
+Marcelo Fischer,high school,standard,none,86,89,87
+Boston Pollard,associate's degree,free/reduced,none,62,65,69
+Ernesto Arias,associate's degree,standard,none,97,94,91
+Charlee Raymond,some college,standard,none,62,64,63
+Abbigail Vaughn,some high school,standard,none,91,97,91
+Tia Ferguson,associate's degree,free/reduced,completed,60,57,61
+Kinley Rivera,high school,free/reduced,none,59,55,46
+Cannon Owens,associate's degree,standard,none,75,87,90
+Brynn Edwards,master's degree,standard,completed,79,87,89
+Kadyn Kirk,associate's degree,free/reduced,completed,79,92,97
+Giovani Byrd,high school,free/reduced,none,34,49,47
+Armani Oneill,some high school,free/reduced,none,49,49,43
+Douglas Austin,some college,standard,completed,47,58,56
+Mckenna Malone,associate's degree,standard,none,78,73,65
+Royce Green,some high school,free/reduced,completed,46,53,54
+Maeve Moody,associate's degree,free/reduced,none,72,80,75
+Ashley Spears,associate's degree,free/reduced,none,45,61,57
+Baylee Kaufman,associate's degree,free/reduced,none,28,32,28
+Lainey Ibarra,some high school,standard,none,83,92,93
+Maeve Mooney,some college,standard,completed,86,89,89
+Trinity Church,some high school,free/reduced,completed,64,75,81
+Anabel Becker,high school,free/reduced,none,65,55,51
+Edwin Davidson,some college,free/reduced,completed,69,85,84
+Nyasia Griffith,high school,standard,completed,66,62,66
+Israel Fox,some college,free/reduced,none,41,60,55
+Jabari Mcclain,master's degree,free/reduced,completed,67,71,70
+Cason Brennan,bachelor's degree,free/reduced,completed,57,65,56
+Addyson Reilly,associate's degree,free/reduced,completed,42,50,61
+Maritza Chapman,high school,free/reduced,none,75,81,87
+Patrick Carpenter,associate's degree,standard,completed,77,90,97
+Norah Mccoy,master's degree,free/reduced,none,65,65,62
+Raphael Ibarra,some high school,standard,completed,87,90,90
+Marisol Escobar,high school,free/reduced,completed,72,76,78
+Katrina Wilkinson,high school,standard,none,71,83,79
+Jonathan Roach,some college,free/reduced,completed,60,80,76
+Shyann Murray,high school,free/reduced,completed,67,75,84
+Konnor Townsend,high school,standard,none,54,73,64
+Devon Rivers,bachelor's degree,free/reduced,completed,48,59,55
+Paola Suarez,high school,standard,completed,67,63,67
+Shaylee Vaughn,some high school,free/reduced,completed,58,56,53
+Paris Burch,high school,standard,completed,80,83,86
+Paulina Mckay,some college,standard,none,84,100,96
+Erica Herring,some college,standard,completed,48,38,46
+Davion Carney,some college,free/reduced,completed,55,67,68
+Victoria Dillon,some high school,standard,completed,69,84,81
+Jadon Shields,high school,standard,none,74,72,62
+Amir Gutierrez,some high school,standard,none,62,68,65
+Francesca Vaughn,high school,standard,completed,76,75,77
+Savannah Wise,bachelor's degree,standard,none,84,81,72
+Cyrus Jones,high school,standard,none,93,86,76
+Alvin Branch,associate's degree,standard,none,56,44,44
+Janessa Montoya,some high school,standard,none,52,65,60
+Abbey Carson,some college,standard,completed,81,90,93
+Frances Owens,high school,standard,completed,84,79,75
+Salvador Hays,some high school,standard,none,55,50,47
+Alyssa Cruz,high school,free/reduced,completed,54,53,51
+Aliyah Fischer,some high school,free/reduced,none,46,41,40
+Haiden Guerrero,high school,free/reduced,none,48,46,50
+Brooks Rocha,some high school,standard,none,79,65,67
+Aisha Yu,high school,free/reduced,completed,66,66,75
+Margaret Gibbs,associate's degree,free/reduced,completed,56,60,63
+Lennon Gill,associate's degree,free/reduced,none,60,74,68
+Kamren Arias,associate's degree,standard,none,75,91,81
+Yosef Kent,some high school,standard,completed,79,65,65
+Gina Ingram,high school,free/reduced,completed,41,57,55
+Camron Hines,associate's degree,free/reduced,none,35,40,45
+Yurem Villarreal,some college,free/reduced,none,54,56,58
+Gideon Weaver,some high school,standard,none,67,65,62
+Hazel Humphrey,high school,standard,completed,85,98,99
+Liberty Mckinney,associate's degree,standard,none,92,100,99
+Marely Lester,associate's degree,standard,completed,99,100,100
+Ashlee Strickland,some high school,free/reduced,completed,52,59,58
+Noel Duncan,associate's degree,free/reduced,none,73,66,68
+Talon Cowan,some high school,free/reduced,completed,62,75,79
+Paris Willis,some high school,standard,none,75,71,68
+Rowan Cowan,associate's degree,standard,none,90,94,93
+Kathryn Lowery,high school,free/reduced,none,54,49,48
+Daniella Moses,associate's degree,standard,none,81,74,74
+Kayleigh Archer,some high school,free/reduced,none,74,66,64
+Kayden Rivers,associate's degree,free/reduced,completed,68,73,72
+Denzel Griffith,some college,standard,none,74,74,70
+Callie Barber,high school,free/reduced,none,51,57,44
+Clarence Marshall,some high school,standard,none,68,77,75
+Jamya May,some college,standard,none,69,59,57
+Dax Moran,some college,standard,completed,100,89,86
+Marcos Mcbride,some college,standard,none,53,59,59
+Thaddeus Osborn,bachelor's degree,free/reduced,completed,72,70,70
+Kymani Ibarra,bachelor's degree,free/reduced,none,50,40,38
+Kobe Mason,high school,standard,none,61,69,69
+Levi Anthony,high school,standard,none,65,69,56
+Mylie Mathis,high school,free/reduced,none,15,39,40
+Haylie Brooks,some high school,free/reduced,none,64,56,52
+Brian Foley,high school,standard,none,77,70,60
+Rogelio Marks,some college,standard,completed,61,63,70
+Collin Elliott,high school,free/reduced,completed,49,66,60
+Marshall Pitts,bachelor's degree,standard,none,70,49,53
+Morgan Moody,associate's degree,standard,none,60,56,57
+Chase Bush,some college,standard,none,84,97,96
+Kiera Hammond,high school,free/reduced,none,51,56,50
+Aldo Woodard,bachelor's degree,standard,none,74,61,68
+Kianna Wu,bachelor's degree,standard,completed,64,77,79
+Gary Schneider,some college,standard,completed,67,74,81
+Tamia Rodriguez,associate's degree,standard,none,76,61,62
+Lorenzo Dyer,some high school,standard,completed,70,66,72
+Yazmin Farley,some college,standard,none,85,92,84
+Mina Edwards,some high school,standard,none,53,55,57
+Khloe Burns,high school,standard,none,84,71,66
+Gunner Schwartz,some high school,standard,none,55,49,44
+Giovanna Michael,high school,standard,none,50,62,63
+Caleb Ballard,some high school,free/reduced,none,79,77,71
+Gary Moyer,associate's degree,standard,none,81,77,71
+Royce Young,associate's degree,standard,completed,89,75,80
+Kiara Webb,associate's degree,free/reduced,completed,59,68,66
+Faith Escobar,some college,standard,completed,82,79,81
+Jessie Braun,associate's degree,standard,none,86,84,82
+Tobias Robles,some college,free/reduced,none,41,58,60
+Deon Mason,master's degree,standard,completed,64,67,72
+Emilia Herrera,associate's degree,free/reduced,completed,68,71,64
+Antony Macdonald,high school,free/reduced,completed,74,67,61
+Chaim Thomas,some college,free/reduced,completed,44,44,53
+Lillianna Berger,high school,free/reduced,completed,34,66,59
+Noah Garcia,some high school,standard,completed,45,50,48
+Delaney Doyle,master's degree,standard,completed,83,86,90
+Kelsey Thornton,some college,standard,none,55,65,57
+Trenton Stokes,high school,free/reduced,none,61,56,52
+Isis Rollins,high school,standard,completed,81,89,88
+Sanai Soto,associate's degree,free/reduced,none,45,52,45
+Karli Cummings,high school,standard,none,71,63,61
+Diego Ibarra,bachelor's degree,standard,completed,62,67,68
+Jameson Atkinson,some college,standard,completed,78,83,76
+Willie Mack,some college,standard,none,76,74,71
+Molly Matthews,associate's degree,standard,completed,73,68,81
+Jasiah Carr,associate's degree,standard,none,82,91,85
+Savion Stokes,some college,standard,completed,69,58,60
+Joel Travis,bachelor's degree,free/reduced,none,72,71,65
+Amaya Herrera,high school,standard,completed,72,73,72
+Ignacio Mosley,associate's degree,free/reduced,none,57,59,62
+Zaiden Buckley,high school,standard,completed,83,71,69
+Alvin Fields,some high school,standard,none,68,76,72
+Karsyn Jacobs,some high school,free/reduced,completed,62,74,71
+Toby Hurley,associate's degree,standard,none,99,97,95
+Fiona Day,high school,standard,completed,88,87,85
+Andy Alvarado,high school,standard,none,56,68,66
+Kellen Peterson,associate's degree,standard,none,68,70,76
+Eduardo Woodward,high school,standard,completed,75,69,67
+Isaiah Mccullough,some college,standard,none,45,46,47
+Tommy Vega,high school,free/reduced,none,72,68,62
+Dylan Erickson,some college,standard,completed,99,98,93
+Reilly Mcdaniel,some college,free/reduced,none,76,72,65
+Kinsley Travis,some high school,free/reduced,completed,64,72,79
+Sarai Davidson,some college,standard,none,56,61,65
+Diamond Leach,some college,free/reduced,none,74,78,81
+Kiley Choi,bachelor's degree,standard,completed,97,91,96
+Jordan Lane,some college,standard,none,83,89,88
+Reid Hayden,bachelor's degree,standard,completed,55,64,63
+Claudia Richardson,some college,standard,completed,77,90,93
+Kathy Mcmillan,bachelor's degree,standard,none,78,80,79
+Breanna Mccall,some high school,standard,completed,89,95,99
+Lennon Farrell,high school,standard,none,78,72,66
+Ryland Walsh,some college,free/reduced,none,33,42,41
+Kamari Riggs,associate's degree,standard,none,66,72,74
+Yamilet Lane,some college,standard,completed,87,87,79
+Billy Valentine,some college,standard,none,50,48,52
+Marin Schmidt,high school,standard,none,79,86,84
+Layla Holden,bachelor's degree,free/reduced,none,70,70,66
+Conrad Kent,some college,free/reduced,completed,47,61,64
+Yael House,high school,standard,none,80,84,81
+Tristan Holmes,some college,standard,completed,91,76,78
+Ronin Chase,high school,free/reduced,completed,78,86,88
+Edgar Rhodes,some college,free/reduced,completed,56,61,62
+Alexander Brock,some high school,standard,none,54,56,47
+Annika Wells,associate's degree,standard,completed,79,65,69
+Jenny Yu,associate's degree,standard,completed,93,87,84
+Elise Leon,some high school,standard,completed,74,78,78
+Lizeth Leblanc,associate's degree,free/reduced,none,83,90,95
+Cara Lin,high school,standard,none,90,78,78
+Janelle Larson,some college,free/reduced,completed,62,78,71
+Braedon Santana,bachelor's degree,standard,none,58,61,59
+Tristen Whitehead,some college,free/reduced,none,73,73,63
+Alexander Gallegos,some high school,standard,none,63,59,51
+Chasity Osborn,associate's degree,standard,completed,89,83,81
+Reuben Rivers,some college,standard,none,75,66,72
+Lyric Delgado,some college,free/reduced,none,51,54,51
+Beau Chapman,some high school,free/reduced,completed,58,80,76
+Annika Stein,bachelor's degree,standard,completed,92,88,94
+Chasity Hendricks,associate's degree,free/reduced,none,39,65,64
+Kaitlynn Shepard,associate's degree,standard,none,84,90,89
+Saniyah Mckenzie,some college,standard,completed,71,66,70
+Saul Contreras,high school,standard,none,85,86,88
+Rigoberto Hardin,high school,free/reduced,none,59,74,68
+Araceli Wagner,bachelor's degree,standard,none,71,67,64
+Ezra Benitez,some high school,standard,none,74,60,59
+Abdullah Chandler,some college,free/reduced,none,62,58,56
+Breanna Cooper,associate's degree,free/reduced,completed,83,86,91
+Naima Terry,some college,standard,none,74,63,65
+Giovanny Arellano,some high school,free/reduced,completed,64,62,55
+Luke Howard,some college,standard,none,79,76,69
+Jamya Silva,high school,free/reduced,none,24,48,46
+Case Mason,associate's degree,free/reduced,completed,66,60,64
+Joel Blankenship,some high school,standard,completed,69,86,87
+Gracie Soto,some high school,standard,none,65,58,57
+Cara Kramer,some high school,standard,none,66,63,60
+Matthias Dean,high school,standard,none,54,56,56
+Selah Liu,some high school,standard,none,59,48,48
+Lizeth Bond,some college,free/reduced,none,60,67,61
+Patrick Benson,some college,standard,none,68,76,79
+Khalil Lutz,high school,standard,none,61,69,66
+Victoria Odonnell,some college,free/reduced,none,84,88,82
+Makai Benjamin,master's degree,standard,none,62,67,70
+Daniela Mcmillan,some high school,standard,none,70,75,70
+Malia Green,high school,free/reduced,completed,76,81,72
+Marely Sullivan,associate's degree,standard,completed,81,92,97
+Eliza Hooper,master's degree,free/reduced,none,54,60,60
+Cloe Simpson,high school,standard,none,67,65,59
+Terrance Petersen,some high school,standard,completed,56,53,53
+Ace Tate,bachelor's degree,free/reduced,none,63,59,51
+Livia Dodson,associate's degree,free/reduced,none,39,44,36
+Chandler Kennedy,master's degree,standard,none,93,78,77
+Arely Mcdowell,some high school,free/reduced,completed,65,72,76
+Helen Baker,associate's degree,standard,none,83,83,70
+Ian Cooke,associate's degree,free/reduced,completed,75,78,77
+Ricky Flowers,some college,free/reduced,none,71,74,73
+Mariam Todd,some college,standard,none,46,52,48
+Mary Aguilar,bachelor's degree,standard,completed,60,74,72
+Mylee Salinas,bachelor's degree,standard,none,55,35,43
+Jadyn Richard,master's degree,standard,completed,79,72,74
+Livia Rubio,associate's degree,free/reduced,none,62,55,50
+Liliana Roberson,high school,standard,completed,55,72,70
+Duncan Rojas,some college,standard,none,58,64,56
+Shaylee Jacobs,associate's degree,free/reduced,none,82,76,75
+Carson Burke,high school,free/reduced,none,30,47,46
+Allisson Bray,some college,standard,none,80,79,74
+Gabrielle Gilmore,some college,standard,none,98,88,85
+Adolfo Hobbs,some college,standard,none,83,91,92
+Hassan Nolan,bachelor's degree,standard,none,81,84,86
+Reilly Hernandez,high school,free/reduced,completed,54,68,69
+Payton Young,associate's degree,standard,completed,82,95,100
+Gunner Hensley,high school,free/reduced,none,62,70,64
+Junior Lang,high school,free/reduced,completed,70,77,86
+Amiah Farrell,some college,standard,none,77,85,85
+Maximo Dickerson,some college,standard,none,55,48,46
+Amya Wiley,high school,standard,completed,78,76,80
+Aisha Malone,associate's degree,free/reduced,completed,69,77,77
+Shawn Schaefer,some college,free/reduced,completed,58,62,64
+Lucas Keller,high school,free/reduced,completed,39,52,58
+Cason Kemp,some high school,standard,none,80,80,79
+Eden Neal,some college,standard,none,76,70,67
+Derrick Young,high school,standard,none,52,68,66
+Keely Dickson,master's degree,standard,none,88,78,84
+Ricky Mills,master's degree,free/reduced,none,82,69,76
+Emilio Stokes,some college,free/reduced,none,62,65,61
+Charlie Irwin,some high school,standard,completed,90,96,98
+Josephine Sanchez,associate's degree,free/reduced,none,41,49,51
+Braylon Cantu,some college,free/reduced,completed,59,69,63
+Justus Dennis,some college,standard,none,61,69,73
+Keely Walls,bachelor's degree,standard,none,68,56,57
+Russell Wade,associate's degree,standard,none,60,75,72
+Norah Arroyo,some high school,free/reduced,completed,37,48,46
+Trace Joseph,some college,free/reduced,none,67,67,62
+Kiara Chung,associate's degree,standard,none,73,76,74
+Fletcher Nielsen,some college,free/reduced,completed,74,75,78
+Immanuel Aguilar,some college,free/reduced,completed,67,89,89
+Gloria Cortez,some college,free/reduced,none,37,51,51
+Jackson Larson,high school,standard,none,61,73,74
+Lewis Reynolds,some college,free/reduced,completed,64,81,87
+Mathew Larson,some college,standard,none,74,81,82
+Danielle Key,high school,free/reduced,none,34,37,27
+Jean Sosa,high school,standard,none,54,62,62
+Izayah Mann,some college,standard,none,65,76,70
+Javon Schwartz,some college,standard,none,81,86,78
+Emery Jenkins,master's degree,standard,completed,88,89,87
+Karma Gamble,some high school,standard,none,82,70,67
+Seamus Barrera,some high school,standard,none,70,75,78
+Sarah Mullen,some high school,standard,completed,60,51,55
+Prince Rangel,master's degree,standard,none,70,81,75
+Weston Franco,some high school,standard,none,67,72,71
+Gilberto James,bachelor's degree,standard,completed,98,100,99
+Gabriel Carney,some high school,free/reduced,completed,35,56,54
+Chaim Santos,associate's degree,standard,none,69,82,78
+Jade Wells,high school,free/reduced,completed,38,38,41
+Aedan Leonard,high school,free/reduced,none,70,74,65
+Yoselin Mckay,some high school,free/reduced,completed,42,59,59
+Jarrett Robertson,some high school,free/reduced,none,47,58,54
+Leland Villegas,bachelor's degree,free/reduced,completed,49,57,61
+Sylvia Hartman,some college,standard,completed,90,93,91
+Yosef Elliott,associate's degree,free/reduced,none,49,54,50
+Gael Kim,master's degree,free/reduced,none,83,86,87
+Sterling Donaldson,associate's degree,free/reduced,none,82,86,78
+Irvin Golden,associate's degree,standard,none,72,69,70
+Bobby Patterson,associate's degree,standard,none,67,67,67
+Giovanni Hebert,master's degree,standard,none,92,89,83
+Conrad Yang,master's degree,standard,none,59,64,64
+Tyrone Gonzalez,bachelor's degree,standard,none,64,63,64
+Jazlynn Harding,some high school,standard,none,88,90,90
+Adriana Huerta,some college,standard,none,92,77,84
+Toby Frye,associate's degree,free/reduced,none,82,73,74
+Barrett Leblanc,some college,standard,none,59,72,70
+Chanel Hatfield,high school,free/reduced,none,45,43,47
+Eddie Cook,high school,free/reduced,none,56,67,62
+Tristin Spears,high school,standard,none,52,48,49
+Akira Palmer,associate's degree,standard,none,86,72,76
+Caitlin Perry,some college,standard,completed,81,93,94
+Maverick Callahan,associate's degree,free/reduced,none,61,64,63
+Liana Shannon,high school,standard,none,51,52,46
+Hannah Little,bachelor's degree,free/reduced,none,69,85,83
+Humberto Hooper,high school,standard,none,81,71,62
+Ismael Foley,bachelor's degree,free/reduced,none,73,85,83
+Brooklyn Avila,bachelor's degree,standard,completed,92,87,92
+Vance Burch,associate's degree,standard,none,71,63,53
+Haleigh Ford,high school,standard,none,61,57,55
+John Charles,associate's degree,standard,none,80,76,74
+Campbell Camacho,some high school,free/reduced,none,38,38,30
+Deja Mcbride,some high school,standard,completed,72,62,62
+Ezra Ware,some college,standard,completed,96,98,100
+Zion Andrews,associate's degree,standard,completed,64,66,72
+Ronald Kennedy,some high school,standard,none,44,65,59
+Semaj Suarez,some college,standard,completed,81,99,96
+Brenden Stuart,high school,standard,completed,85,75,72
+Ismael Bentley,associate's degree,standard,none,82,76,71
+Hailie Small,associate's degree,standard,none,72,67,64
+Billy Lin,master's degree,free/reduced,none,43,57,59
+Abagail Mullen,some college,standard,none,58,69,63
+Greyson Buck,some college,free/reduced,completed,72,73,75
+Jairo Payne,some college,standard,completed,80,67,72
+Haiden James,high school,standard,none,81,62,61
+Teresa Villa,some high school,free/reduced,none,66,60,59
+Rodrigo Douglas,associate's degree,standard,none,74,65,61
+Anika Hull,master's degree,free/reduced,completed,75,70,76
+Mariah Parrish,some college,standard,none,68,58,54
+Kailee Bright,some high school,free/reduced,none,67,63,63
+Emerson Herring,some college,standard,none,58,47,45
+Amiyah Cervantes,some college,standard,none,79,56,68
+Maddison Santana,some high school,standard,none,63,63,63
+Alexa Walter,associate's degree,free/reduced,none,59,72,72
+Layla Mcmillan,bachelor's degree,free/reduced,none,47,53,42
+Tabitha Wilcox,some college,free/reduced,completed,67,78,70
+Jaylee Villanueva,some college,standard,completed,92,86,88
+Meghan Estrada,associate's degree,standard,none,44,45,41
+Marquis Campbell,master's degree,free/reduced,none,57,54,48
+Abel Black,bachelor's degree,standard,completed,83,100,100
+Issac Hanna,master's degree,standard,completed,68,76,76
+Annalise Lyons,associate's degree,standard,none,59,52,45
+Susan Ayers,some high school,free/reduced,none,36,51,49
+Cadence Gaines,some college,standard,completed,56,51,44
+Clarence Marsh,high school,free/reduced,completed,80,94,97
+Trevin May,some college,free/reduced,completed,62,72,67
+Elizabeth Arias,some high school,standard,none,90,72,79
+Destinee Tucker,associate's degree,standard,completed,55,62,58
+Isaias Mcbride,bachelor's degree,free/reduced,completed,44,45,52
+Luciano Barron,high school,standard,completed,72,63,66
+Moshe Mccarthy,high school,standard,none,92,94,94
+Carissa Walsh,high school,free/reduced,completed,73,68,71
+Aiden Chandler,high school,standard,completed,75,74,75
+Alessandra West,associate's degree,standard,completed,82,78,78
+Jacoby Rodriguez,some high school,standard,none,84,84,74
+Jaliyah Stevens,master's degree,standard,none,81,80,73
+Ian Mullen,some college,standard,none,82,68,63
+Marvin Pacheco,master's degree,standard,completed,79,92,87
+Alexander Sheppard,high school,standard,none,31,49,42
+Cade Maynard,some high school,standard,none,73,62,59
+Annie Cohen,some college,standard,none,89,93,98
+Danica Thornton,bachelor's degree,standard,completed,100,100,100
+Mitchell Matthews,associate's degree,free/reduced,completed,47,58,56
+Jade Gill,some high school,standard,none,94,75,75
+Grant Juarez,associate's degree,standard,completed,79,77,75
+Heidy Gilbert,high school,free/reduced,completed,77,80,74
+Braden Caldwell,some college,standard,none,63,60,53
+Janelle Petty,high school,standard,none,56,45,38
+Marc Shaffer,associate's degree,free/reduced,completed,58,67,70
+Shaniya Cline,some college,standard,completed,77,80,85
+Demarion Mooney,some college,standard,completed,82,85,91
+Asia Kaiser,high school,free/reduced,none,51,69,64
+Alejandro Melton,some high school,standard,none,92,80,78
+Ashton Rangel,high school,standard,none,87,90,85
+Anthony Sims,associate's degree,standard,completed,88,78,86
+Jarrett Mann,some college,standard,none,77,79,78
+Saige Wagner,some college,standard,none,62,65,65
+Conor Ramsey,associate's degree,standard,none,61,56,56
+Willow Wyatt,associate's degree,free/reduced,none,65,66,66
+Isabelle Leonard,master's degree,standard,completed,84,76,81
+Kathryn Arnold,some high school,free/reduced,none,30,59,51
+Emilie Shannon,associate's degree,free/reduced,completed,63,61,64
+Lily Contreras,high school,standard,none,79,78,83
+Antwan Todd,some college,standard,none,51,72,63
+Jagger Palmer,some college,standard,none,66,70,67
+Darnell Wallace,associate's degree,standard,none,63,69,66
+Alivia Richard,associate's degree,free/reduced,none,71,78,81
+Kai Haas,master's degree,standard,none,69,76,71
+Alonso Armstrong,some college,free/reduced,none,70,81,76
+Dexter Golden,some high school,standard,none,67,59,59
+Tanner Ferrell,some high school,standard,none,53,48,49
+Jordyn Joyce,bachelor's degree,free/reduced,none,50,62,62
+Kaitlynn Boone,high school,standard,none,59,63,61
+Lisa Johnson,high school,free/reduced,completed,54,72,68
+Cristina Blevins,some college,standard,none,81,72,70
+Cali Gilmore,high school,standard,none,69,58,52
+Jack Stone,high school,standard,none,87,84,76
+Greta Medina,bachelor's degree,standard,none,88,84,88
+Lila Lindsey,bachelor's degree,standard,none,52,53,55
+Madison Banks,some high school,standard,none,60,61,57
+Sanai Chapman,some high school,standard,completed,77,83,84
+Deangelo Stein,associate's degree,free/reduced,completed,47,49,49
+Xiomara Lawson,some college,standard,none,76,65,58
+Elvis Murray,some college,standard,completed,92,100,100
+Eduardo Weiss,some high school,standard,none,87,87,84
+Jaidyn Daniel,high school,standard,none,74,82,81
+Carlo Osborne,some high school,standard,completed,67,60,69
+Mila Marks,some college,free/reduced,none,56,47,48
+Carissa Beltran,associate's degree,standard,none,84,92,90
+Willow Castillo,associate's degree,standard,none,73,54,57
+Tamara Patrick,master's degree,free/reduced,none,75,65,65
+Rodrigo Herring,high school,standard,completed,70,72,67
+Hayley Barton,high school,standard,none,79,72,72
+Sergio Burke,bachelor's degree,standard,completed,86,77,80
+Sophia Dyer,high school,standard,completed,77,83,91
+Tanner Brennan,high school,free/reduced,completed,58,67,67
+Aidan Bradford,some college,free/reduced,completed,70,66,68
+Lewis Hooper,master's degree,standard,none,69,67,78
+Annabelle Elliott,some college,standard,completed,94,97,95
+Kylie Owens,some college,free/reduced,none,76,82,81
+Khalil Rivas,high school,standard,none,71,72,69
+Presley Harrell,associate's degree,standard,none,76,72,73
+Crystal Bright,bachelor's degree,free/reduced,none,85,78,81
+Andres Nguyen,some high school,standard,none,94,84,80
+Todd Harrison,master's degree,standard,none,91,82,74
+Rhett Fuentes,associate's degree,standard,completed,100,100,98
+Harper Potter,high school,standard,none,65,66,61
+Gretchen Dodson,bachelor's degree,free/reduced,none,68,79,78
+Rohan Sims,high school,free/reduced,none,59,60,56
+Eliana Haynes,bachelor's degree,standard,none,73,87,89
+Aylin Irwin,some college,free/reduced,completed,76,83,78
+Rosa Haynes,some high school,standard,none,86,92,83
+Melany Houston,associate's degree,standard,completed,75,74,80
+Andres David,some high school,standard,none,68,53,53
+Amir Wright,high school,free/reduced,none,68,73,71
+Madisyn Hunt,some college,standard,none,59,62,52
+June Young,bachelor's degree,standard,none,84,80,77
+Alisson Henderson,some college,free/reduced,none,67,58,58
+Yazmin Morgan,associate's degree,free/reduced,none,59,64,60
+Jane Horton,bachelor's degree,free/reduced,none,58,66,67
+Cheyenne Le,associate's degree,standard,none,72,62,60
+Rosemary Church,associate's degree,standard,none,61,65,59
+Soren Cuevas,some high school,free/reduced,none,55,70,60
+Victoria Rocha,bachelor's degree,standard,none,41,51,53
+Alisha Pitts,some college,free/reduced,none,36,45,44
+Dorian Fleming,associate's degree,standard,completed,84,75,75
+Giuliana Rocha,associate's degree,free/reduced,none,57,45,42
+Veronica Stout,associate's degree,standard,none,81,96,93
+Michael Hodges,some high school,standard,none,59,60,50
+Lizeth Wu,some college,free/reduced,none,66,56,56
+Willow Schmitt,some college,free/reduced,completed,65,62,63
+Braxton Hancock,associate's degree,standard,none,65,85,80
+Marianna Blackburn,some high school,free/reduced,completed,53,77,75
+Frances Glenn,some high school,standard,none,79,69,70
+Dakota Short,associate's degree,standard,completed,89,86,92
+Amelie Baxter,high school,free/reduced,none,85,91,88
+Leticia Bowman,some college,standard,none,79,93,81
+Graham Lyons,associate's degree,standard,completed,83,96,96
+Ramon Escobar,some high school,free/reduced,none,62,71,61
+Madison Booker,some college,standard,none,64,68,60
+Cordell Schultz,bachelor's degree,standard,none,66,65,76
+Martin Petersen,some high school,free/reduced,none,36,52,51
+Shirley Juarez,some high school,standard,none,74,77,72
+Laila Hansen,bachelor's degree,standard,completed,85,96,95
+Demetrius Grant,high school,standard,completed,44,69,68
+Jazmine Santiago,some college,standard,completed,68,78,77
+Tucker Woodard,some college,standard,completed,59,66,71
+Mario Haney,high school,standard,none,64,57,52
+Kailyn Moses,some college,free/reduced,none,62,74,74
+Matias Cowan,master's degree,free/reduced,none,45,53,45
+Tori Curry,high school,standard,none,85,81,83
+Lara Butler,some high school,standard,none,45,48,46
+Arturo Valentine,associate's degree,standard,none,81,66,58
+Preston Burnett,high school,standard,none,65,70,57
+Quinn Wyatt,high school,free/reduced,none,48,60,55
+Ace Horne,high school,standard,none,59,66,69
+Dereon Hernandez,some college,standard,completed,80,88,90
+Asia Bridges,bachelor's degree,standard,completed,66,80,75
+Kristen Day,bachelor's degree,standard,completed,80,93,99
+Amiyah Cordova,some high school,free/reduced,none,47,54,48
+Ada Collier,high school,standard,none,74,90,83
+Christian Benton,bachelor's degree,free/reduced,none,55,59,49
+Sanai Carey,associate's degree,standard,none,100,93,89
+Agustin Bray,some high school,standard,none,83,84,78
+Slade Bailey,associate's degree,standard,none,76,74,67
+Aubrie Alexander,some high school,standard,completed,87,83,80
+Terrell Dominguez,some high school,standard,none,28,27,23
+Sierra Garza,some high school,standard,completed,76,78,79
+Sariah Wolfe,bachelor's degree,standard,none,86,87,90
+Lyric Golden,bachelor's degree,free/reduced,none,65,64,73
+Jaydan Mccall,master's degree,standard,none,88,72,78
+Cassandra Garrison,master's degree,standard,completed,87,95,100
+Izabelle Willis,some high school,standard,none,51,53,45
+Elliana Castillo,associate's degree,standard,completed,67,62,67
+Amara Franklin,some high school,standard,none,70,77,76
+Pamela Cunningham,associate's degree,standard,none,72,77,77
+Fernando Cline,associate's degree,free/reduced,completed,75,67,67
+Nathaniel Mccall,some high school,standard,none,83,74,80
+Maritza King,associate's degree,standard,none,82,97,90
+Judith Gates,some college,standard,none,77,77,71
+Marilyn Kramer,some college,standard,none,80,66,66
+Mariyah Glenn,high school,standard,completed,67,86,86
+Todd Spears,high school,standard,none,80,72,62
+Carlo Juarez,high school,standard,none,58,47,45
